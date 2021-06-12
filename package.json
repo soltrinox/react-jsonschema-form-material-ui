@@ -84,7 +84,7 @@
     "babel-loader": "8.2.2",
     "chai": "4.2.0",
     "chai-enzyme": "1.0.0-beta.1",
-    "cheerio": "1.0.0-rc.3",
+    "cheerio": "1.0.0-rc.10",
     "compression-webpack-plugin": "7.1.2",
     "core-js": "3.8.2",
     "css-hot-loader": "1.4.4",
